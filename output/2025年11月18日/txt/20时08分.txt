@@ -1,0 +1,87 @@
+v2ex | V2EX
+1. 好奇 v2 节点列表的帖子排序规则 [URL:https://www.v2ex.com/t/1173588]
+2. 活久见， Cloudflare 香港崩了 [URL:https://www.v2ex.com/t/1173587]
+3. [送会员啦]我们做了一款自动记录操作、生成图文步骤的浏览器插件叫"智写流程(iGenflow)" [URL:https://www.v2ex.com/t/1173580]
+4. 做了一个 抛硬币 网站 - 用最简单的方式做决定 [URL:https://www.v2ex.com/t/1173579]
+5. 有没有人开发一个 iOS 上类似 OPPO 的小布记忆的语音 memo [URL:https://www.v2ex.com/t/1173576]
+6. 分享书单 [URL:https://www.v2ex.com/t/1173574]
+7. 大家 Vibe Coding 过程中当 AI 在 Coding 时你在干嘛? [URL:https://www.v2ex.com/t/1173571]
+8. 分享一个如何更好的领京东外卖优惠券的方法 [URL:https://www.v2ex.com/t/1173568]
+9. ai 堆屎，恐怖如斯 [URL:https://www.v2ex.com/t/1173564]
+10. UZI 真的复出了吗 [URL:https://www.v2ex.com/t/1173561]
+11. 国产系统的重装踩坑之旅 [URL:https://www.v2ex.com/t/1173533]
+12. 泡泡排课，让排课更简单 [URL:https://www.v2ex.com/t/1173532]
+13. 分享一个工具，全自动的数据分析体验 [URL:https://www.v2ex.com/t/1173530]
+14. 从 0 到 1，独立完整的做一个产品并上线，这个能力在程序员中普遍吗？ [URL:https://www.v2ex.com/t/1173527]
+15. 做了个工具解决 i18n 翻译协作痛点 - 翻译人员直接在页面上改文案，实时同步代码 [URL:https://www.v2ex.com/t/1173519]
+16. [分享] 整理了一个 LangChain v1 的完整示例仓库，包含 RAG / LangGraph / Agent 等模块 [URL:https://www.v2ex.com/t/1173516]
+17. 多多上买的那个 4 斤超大芒果，开吃啦 [URL:https://www.v2ex.com/t/1173517]
+18. 之前做的一个网站 Shop Sages [URL:https://www.v2ex.com/t/1173515]
+19. 我不会写生日贺卡，然后自己手画的又丑，我就用写一个网站，把原本上色和美化交给 ai。 [URL:https://www.v2ex.com/t/1173513]
+20. 你的 AI Coding 结束了, 别玩手机了! [URL:https://www.v2ex.com/t/1173508]
+21. 我用 PaddleOCR-VL + DeepSeek-OCR 搭了个真·免费 OCR 服务 [URL:https://www.v2ex.com/t/1173507]
+22. 有没有 AI 能实时总结我浏览器里播放的直播？ [URL:https://www.v2ex.com/t/1173503]
+23. 今天才知道介错人是什么意思 [URL:https://www.v2ex.com/t/1173499]
+24. 信息泄露，弃贴 [URL:https://www.v2ex.com/t/1173498]
+25. 今天收到了 Fackbook 泄露隐私的罚款赔偿 [URL:https://www.v2ex.com/t/1173494]
+26. [iOS 内购限免] atvRemote，管理和控制支持 ADB 协议 的智能设备（如电视、机顶盒） [URL:https://www.v2ex.com/t/1173488]
+27. 经济越差，越是好产品脱颖而出的时候 [URL:https://www.v2ex.com/t/1173484]
+28. 继续来抽月卡|萌新继续送 [URL:https://www.v2ex.com/t/1173483]
+29. 可以给手机刷上原生 Linux 吗？ [URL:https://www.v2ex.com/t/1173478]
+30. 请教各位 V 友，如何调整心态 [URL:https://www.v2ex.com/t/1173473]
+
+pcbeta | 远景论坛
+1. 如何能实现重启电脑或者windows更新时，微软商店不怎么更新三星快速分享 [URL:https://bbs.pcbeta.com/viewthread-2057662-1-1.html]
+2. 添加“管理员取得所有权”会造成文件夹默认打开方式出问题 [URL:https://bbs.pcbeta.com/viewthread-2057660-1-1.html]
+3. Epic CEO怒批Win11：任务栏不能动、账户强制登！马斯克下场力挺 [URL:https://bbs.pcbeta.com/viewthread-2057658-1-1.html]
+4. Windows Server 2025 Datacenter 26200.7296 升级成功 [URL:https://bbs.pcbeta.com/viewthread-2057654-1-1.html]
+5. win11 25h2 dolby解码恢复 [URL:https://bbs.pcbeta.com/viewthread-2057653-1-1.html]
+6. X1 tablet Gen3安装Windows11，键盘倾斜模式不能使用 [URL:https://bbs.pcbeta.com/viewthread-2057652-1-1.html]
+7. Win11 25H2 26220.7262 Build预览版x64更新很好 [URL:https://bbs.pcbeta.com/viewthread-2057650-1-1.html]
+8. 刚刚更新到Win11 25H2 26220.7262，不能连接5G WIFI了 [URL:https://bbs.pcbeta.com/viewthread-2057649-1-1.html]
+9. win11了不知道大家还在用搜狗输入法吗 [URL:https://bbs.pcbeta.com/viewthread-2057645-1-1.html]
+10. 6901更新了26200.7296，谈谈关于DWMBlurGlass玻璃特效失效的问题 [URL:https://bbs.pcbeta.com/viewthread-2057644-1-1.html]
+11. Windows 中的快速机器恢复~ [URL:https://bbs.pcbeta.com/viewthread-2057642-1-1.html]
+12. 老毛子俄版Internet Download Manager 6.42.52(Repack) [URL:https://bbs.pcbeta.com/viewthread-2057636-1-1.html]
+13. revios最新版25.10中文版本playbook [URL:https://bbs.pcbeta.com/viewthread-2057634-1-1.html]
+14. 关于BitLocker 驱动器加密-震惊到了 [URL:https://bbs.pcbeta.com/viewthread-2057633-1-1.html]
+15. 微星小飞机MSI afterburner 4.6.6主界面与内置RTSS汉化包 [URL:https://bbs.pcbeta.com/viewthread-2057628-1-1.html]
+16. 如何恢复已被优化的WIN11 25H2后，点击“程序”不弹出相关属性 [URL:https://bbs.pcbeta.com/viewthread-2057615-1-1.html]
+17. 系统信息里面啥时候多了一个“常见问题解答”？ [URL:https://bbs.pcbeta.com/viewthread-2057614-1-1.html]
+18. Win11 24H2 26100.7296 Build预览版x64更新包及Win11 25H2 26200.7296 Build预览版x64更新包 [URL:https://bbs.pcbeta.com/viewthread-2057613-1-1.html]
+19. 大家有没遇到win11 性能下降的问题 [URL:https://bbs.pcbeta.com/viewthread-2057611-1-1.html]
+20. Win11 25H2 26220.7262 Build预览版x64更新包 [URL:https://bbs.pcbeta.com/viewthread-2057609-1-1.html]
+
+==== 以下ID请求失败 ====
+weibo
+douyin
+bilibili-hot-search
+tieba
+zhihu
+hupu
+toutiao
+baidu
+thepaper
+ifeng
+cankaoxiaoxi
+sputniknewscn
+zaobao
+mktnews
+kaopu
+wallstreetcn-hot
+wallstreetcn-quick
+wallstreetcn-news
+cls-hot
+gelonghui
+xueqiu
+jin10
+fastbull
+ithome
+juejin
+github
+hackernews
+solidot
+nowcoder
+sspai
+producthunt
+chongbuluo
